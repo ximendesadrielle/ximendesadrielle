@@ -4,7 +4,7 @@
 <hr>
 <br>
 <p>
-• Sistemas para Internet - UNICAP, 1° Periodo  
+• Sistemas para Internet - UNICAP, 2° Periodo  
 </p>
 <p> 
 • Recife, Pernambuco, Brasil 
